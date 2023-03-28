@@ -1,1 +1,0 @@
-# sokrapich.github.io
