@@ -1,0 +1,35 @@
+body
+{
+  font-size: 25pt;
+  background-color:Orange
+}
+.room{
+  text-align:right;
+}
+.chat{
+  border-radius:10px 10px;
+  border-color:Blue;
+  color:Purple;
+  font-size:40px;
+  box-shadow:4px 4px black;
+  text-shadow:3px 3px pink;
+  background-color:Khaki;
+  margin-top:10px;
+}
+.lis1{
+  text-align:center;
+}
+.lis1s{
+  margin-top:50px;
+  margin-bottom:1px;
+  color:LemonChiffon;
+  text-shadow:5px 5px black;
+}
+.video1{
+  width:1000px;
+  height:600px;
+}
+.video1s{
+  text-align:center;
+  
+}
